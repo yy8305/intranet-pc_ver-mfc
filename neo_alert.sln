@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "neo_alert", "neo_alert\neo_alert.vcxproj", "{F72E9B92-A4F8-462E-8AAC-8AB50F0BAC1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72E9B92-A4F8-462E-8AAC-8AB50F0BAC1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F72E9B92-A4F8-462E-8AAC-8AB50F0BAC1E}.Debug|Win32.Build.0 = Debug|Win32
+		{F72E9B92-A4F8-462E-8AAC-8AB50F0BAC1E}.Release|Win32.ActiveCfg = Release|Win32
+		{F72E9B92-A4F8-462E-8AAC-8AB50F0BAC1E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
